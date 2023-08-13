@@ -1,4 +1,3 @@
-# htmlfalan
 <h1>Ahmet Emir Arslan</h1>
 <!-- İngilizce yazmayı tercih edip çok kısa bi hakkımda kısmı yazdım. -->
 <h2>About Me</h2>
